@@ -1,0 +1,1 @@
+module.exports = {"width":47,"height":75,"url":{"2x":"https://xkcd.com/2916/client/static/25ec1a.png","4x":"https://xkcd.com/2916/client/static/0d0a93.png"},"srcSet":"https://xkcd.com/2916/client/static/25ec1a.png 2x, https://xkcd.com/2916/client/static/0d0a93.png 4x"}
