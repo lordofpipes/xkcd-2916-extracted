@@ -1,6 +1,8 @@
 # Extraction of xkcd 2916: "Machine" source code
 
-## Go to [xkcd.com](https://xkcd.com/)
+This is an extraction of the sourcemap file provided by the xkcd website for [xkcd 2916: "Machine"](https://xkcd.com/2916/).
+
+### Go to [xkcd.com](https://xkcd.com/) - A webcomic of romance, sarcasm, math, and language.
 
 Made by:
 
